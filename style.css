@@ -1,0 +1,45 @@
+.container {
+  padding: 40px 280px;
+  margin-top: 50px;
+}
+#input,
+#input2 {
+  margin-bottom: 20px;
+}
+.input {
+  padding: 10px 20px;
+}
+.formbox {
+  padding: 60px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+.card1 {
+  background-color: slateblue;
+}
+.card2 {
+  background-color: lightsalmon;
+}
+.card3 {
+  background-color: orange;
+}
+.card {
+  color: white;
+  margin: 0 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+#account-area,
+#transion {
+  margin: 0 300px;
+  display: none;
+}
+.tas {
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 6px 6px 16px gray;
+}
+.trainput {
+  margin-top: 10px;
+  margin-bottom: 13px;
+}
